@@ -1,0 +1,4 @@
+Player_X Number of wins  Player_O  Number of wins  ties
+al           1          pl             0           0
+Player_X Number of wins  Player_O  Number of wins  ties
+f           1          f             1           1
