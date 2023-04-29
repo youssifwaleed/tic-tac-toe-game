@@ -1,0 +1,2 @@
+Player_X Number of wins  Player_O  Number of wins  ties
+ahmed           1          mohamed             2           1
